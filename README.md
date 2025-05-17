@@ -65,15 +65,13 @@ Include screenshot of the dataset.
 
 ### OUTPUT
 
-## Confusion Matrix
-
-Include confusion matrix here
-
 ## Classification Report
 Include classification report here
+![classification](https://github.com/user-attachments/assets/9c2e5804-3f81-4810-ac15-839e9e55f3cc)
 
-### New Sample Data Prediction
-Include your sample input and output here
+### Loss
+![loss](https://github.com/user-attachments/assets/95d05b5f-d89f-46ed-8a6d-8ae441a2190f)
+
 
 ## RESULT
 Include your result here
